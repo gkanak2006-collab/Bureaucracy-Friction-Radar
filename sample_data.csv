@@ -1,0 +1,6 @@
+Process_Name,Waiting_Time,Number_of_Steps,Repeat_Visits
+Fee Submission,30,5,2
+ID Verification,45,7,3
+Document Approval,60,6,4
+Hostel Allotment,40,4,1
+
