@@ -34,6 +34,7 @@ Processes with higher scores indicate higher bureaucratic friction and need impr
 pip install -r requirements.txt
 streamlit run app.py
 
+--------
 ## Developer
 Kanak Gupta  
 2026
