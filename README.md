@@ -22,8 +22,6 @@ Processes with higher scores indicate higher bureaucratic friction and need impr
 - **Google Sheets / Looker Studio** (optional dashboards)
 - **Gemini** (ideation and content support)
 
----
-
 ## How It Works
 1. Upload a CSV or Excel file with process data.
 2. The app automatically maps required columns.
@@ -31,10 +29,13 @@ Processes with higher scores indicate higher bureaucratic friction and need impr
 4. Results can be downloaded as a CSV.
 5. If no file is uploaded, a demo dataset is loaded.
 
----
-
 ## How to Run
 ```bash
 pip install -r requirements.txt
+
+## Developer
+Kanak Gupta  
+2026
+
 streamlit run app.py
 
